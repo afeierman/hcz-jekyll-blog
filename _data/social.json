@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/AlmostFireman"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "link": "https://www.linkedin.com/in/andrew-feierman/"
   }
 ]
