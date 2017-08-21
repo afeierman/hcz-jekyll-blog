@@ -10,12 +10,11 @@ url: ""
 
 allowsearch: true
 
-disqus_shortname: /#
-google_analytics: UA-72862926-1
+#google_analytics:
 
 share:
   twitter_username: /afeierman
-  fb_appid: 000000000000
+#  fb_appid: 000000000000
 
 
 enableTags: true
