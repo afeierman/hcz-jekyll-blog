@@ -1,6 +1,13 @@
+---
+layout: post
+title: An R Shiny App to Track Building Energy Data 
+date:   2017-08-28 10:10:49
+categories: others
+---
+
 _Cross-posted from NYC Data Science Academy's Blog: [https://blog.nycdatascience.com/student-works/r-shiny/building-energy-benchmarking-data-us/](Original Post)_
 
-_Source code for this application can be found on [https://github.com/afeierman/benchmarking-data-explorer](github).
+_Source code for this application can be found on [https://github.com/afeierman/benchmarking-data-explorer](github)._
 
 ##Tracking Building Energy Data in the US
 
