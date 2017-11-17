@@ -5,9 +5,9 @@ date:   2017-08-28 10:10:49
 categories: others
 ---
 
-_Cross-posted from NYC Data Science Academy's Blog: [Original Post](https://blog.nycdatascience.com/student-works/r-shiny/building-energy-benchmarking-data-us/)
+_Cross-posted from NYC Data Science Academy's Blog: [Original Post](https://blog.nycdatascience.com/student-works/r-shiny/building-energy-benchmarking-data-us/)_
 
-_Source code for this application can be found on [github](https://github.com/afeierman/benchmarking-data-explorer).
+_Source code for this application can be found on [github](https://github.com/afeierman/benchmarking-data-explorer)._
 
 ## Tracking Building Energy Data in the US
 
