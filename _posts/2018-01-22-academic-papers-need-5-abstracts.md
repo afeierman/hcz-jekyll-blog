@@ -2,7 +2,7 @@
 layout: post
 title: Academic Papers Need 5 Abstracts
 date: 2018-01-22 13:28:19
-categories: academia
+categories: modeling, climate, music, learning
 ---
 
 Recently, I've been learning in two ways, under two different sets of 
@@ -12,21 +12,23 @@ generating curring-edge climate predictions, policy, and data analysis.
 This has been really interesting! It's also somewhat stressful, given 
 the nature of how my livelihood is tied to understanding those papers. 
 
-The other way that I've been learning is by taking up (**sigh, big 
+The other way that I've been learning is by taking up (**big 
 sigh**) guitar in my spare time. I've been playing the drums for a while 
 and learned just a touch of music theory when I was younger, so I'm not 
 quite starting out at square one. Much like complicated statistical 
 models, there's a ton of theory and skill that goes into understanding 
 how talented guitarists play. This has been really interesting! But 
 generally, my comprehension of music theory and those damned instruments 
-that have pitch (read: all of them, other than **some** percussion) is 
+that have pitch (read: pretty much all of them, other than _some_ percussion) is 
 at a much lower level than my comprehension of climate models. 
 
 So there's been a lot of learning. Over the holidays, I fell into a trap 
 most everyone falls into these days... The YouTube hole. And from that 
 YouTube hole I discovered this: 
-https://www.youtube.com/watch?v=eRkgK4jfi6M. I didn't know who Jacob 
-Collier was before watching this video. I did know who Herbie Hancock 
+
+[![Fall into Youtube hole at your own risk](https://img.youtube.com/vi/eRkgK4jfi6M/0.jpg)](https://www.youtube.com/watch?v=eRkgK4jfi6M)
+
+I didn't know who Jacob Collier was before watching this video. I did know who Herbie Hancock 
 was. But this video! This video series! I love it, and here's why:
 
 In the video, harmony is explained 5 times. The first time, it takes 
