@@ -2,7 +2,7 @@
 layout: post
 title: An R Shiny App to Track Building Energy Data 
 date:   2017-08-28 10:10:49
-categories: others
+categories: climate
 ---
 
 _Cross-posted from NYC Data Science Academy's Blog: [Original Post](https://blog.nycdatascience.com/student-works/r-shiny/building-energy-benchmarking-data-us/)_
