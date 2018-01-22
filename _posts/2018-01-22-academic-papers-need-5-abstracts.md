@@ -2,7 +2,7 @@
 layout: post
 title: Academic Papers Need 5 Abstracts
 date: 2018-01-22 13:28:19
-categories: modeling, climate, music, learning
+categories: musings
 ---
 
 Recently, I've been learning in two ways, under two different sets of 
