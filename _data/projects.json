@@ -7,4 +7,12 @@
 		"tags": ["R Shiny","R", "Energy Benchmarking", "Energy Data", "Sustainability", "Leaflet"]
 	}
 
+	{
+		"name": "Urban Environment & Social Inclusion Index",
+		"image": "UESIblog.png",
+		"url": "https://datadriven.yale.edu/urban",
+		"date": "September 2018",
+		"tags": ["sustainability", "climate change", "data science", "leaflet", "javascript", "python", "R"]
+	}
+
 ]
