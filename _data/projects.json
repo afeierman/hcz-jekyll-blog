@@ -1,16 +1,23 @@
 [
+
+	{
+		"name": "Trase Earth",
+		"url": "https://trase.earth",
+		"date": "2020",
+		"tags": ["sustainability", "data science", "professional", "deforestation"]
+	},
 	{
 		"name": "Building Energy Dashboard",
 		"image": "BMExplorer.png",
 		"url": "https://blog.nycdatascience.com/student-works/r-shiny/building-energy-benchmarking-data-us/",
 		"date": "Jan 2017",
-		"tags": ["alR Shiny","R", "energy benchmarking", "energy data", "sustainability", "leaflet"]
+		"tags": ["R Shiny","R", "energy benchmarking", "energy data", "sustainability", "leaflet"]
 	},
 
 	{
 		"name": "Urban Environment & Social Inclusion Index",
 		"image": "UESIblog.png",
-		"url": "https://datadriven.yale.edu/urban",
+		"url": "https://datadrivenlab.org/urban",
 		"date": "September 2018",
 		"tags": ["sustainability", "climate change", "data science", "leaflet", "javascript", "python", "R"]
 	},
@@ -21,15 +28,7 @@
 		"url": "https://github.com/ESHackathon/eviatlas/",
 		"date": "April 2018",
 		"tags": ["evidence synthesis", "leaflet", "hackathon", "R"]
-	},
-
-	{
-		"name": "baseballR",
-		"image": "baseballr.png",
-		"url": "http://billpetti.github.io/baseballr/",
-		"tags": ["baseball", "sabermetrics", "R", "open-source", "small contributor"]
 	}
-
 
 
 ]

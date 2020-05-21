@@ -2,15 +2,6 @@
 layout: default
 title: Blog
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112855811-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-112855811-1');
-</script>
 <div class="well">
     <div class="list-group">
       {% for post in paginator.posts %}
@@ -28,7 +19,7 @@ title: Blog
       <div class="list-group-separator"></div>
       {% endfor %}
     </div>
-   
+
 
     <!-- Pagination links -->
     {% if paginator.total_pages > 1 %}
