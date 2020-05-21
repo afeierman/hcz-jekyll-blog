@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a data scientist based in New York. Currently, I'm working as a Data Scientist for the [Trase][https://trase.earth] project at the [Stockholm Environment Institute](https://www.sei.org).
+I am a data scientist based in New York. Currently, I'm working as a Data Scientist for the [Trase](https://trase.earth) project at the [Stockholm Environment Institute](https://www.sei.org).
 
 Previously, I worked as a data scientist for the [Data-Driven Environmental Solutions Group at Yale University](https://datadrivenlab.org) and on energy efficiency in real estate for the [Institute for Market Transformation](https://www.imt.org).
 
